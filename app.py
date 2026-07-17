@@ -305,7 +305,7 @@ with col_b:
 # --------------------------------------------------------------------------
 
 st.divider()
-st.subheader("⚠️ Methodological note")
+st.subheader("Methodological note")
 st.markdown(
     """
 - **Correlation does not imply causation.** This analysis shows observed
