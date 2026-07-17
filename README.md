@@ -5,7 +5,7 @@ Interactive dashboard exploring the relationship between gender inequality
 identifying countries that deviate from what their inequality level would
 predict — for better or worse.
 
-**[Live demo →](https://health-equity-dashboard-nvtgt6fxzvgs58zm5cneua.streamlit.app/)**
+**[Live demo HERE :) →](https://health-equity-dashboard-nvtgt6fxzvgs58zm5cneua.streamlit.app/)**
 
 📝 **[Read the full methodology walkthrough →](ANALYSIS.md)** — the reasoning behind every design decision in this project, written as a technical deep dive.
 
