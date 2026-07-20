@@ -42,7 +42,7 @@ health-equity-dashboard/
 ## Running locally
 
 ```bash
-git clone <aqui va el link>
+git clone https://github.com/lachemontes/health-equity-dashboard.git
 cd health-equity-dashboard
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
